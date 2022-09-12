@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m a recent data analyst graduate **with pandas , numpy , matplotlib skills**.
 
 I completed my data analyst course in Practicum (June2022).
+The curricullum provides a wide range of projects based on the following Python technologies: Pandas , Numpy , matplotlib,seaborn,plotly,scikit,statistics .
 Has been working on many portfolio projects , apiary (realtime) projects implementing pandas , matplotlib ,seaborn ,  statistics , machine learning (scikit) , tableau skills.
 
 <a href="https://revi-here.github.io/ " > <b>Portfolio</b> </a>
