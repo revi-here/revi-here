@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 I completed my data analyst course in Practicum (June2022).
 Has been working on many portfolio projects , apiary (realtime) projects implementing pandas , matplotlib ,seaborn ,  statistics , machine learning (scikit) , tableau skills.
 
-<a href="revi-here.github.io " > <b>Portfolio</b> </a>
+<a href="https://github.com/revi-here/revi-here.github.io " > <b>Portfolio</b> </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
